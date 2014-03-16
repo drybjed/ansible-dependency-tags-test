@@ -1,0 +1,21 @@
+---
+
+- hosts: localhost
+
+  roles:
+
+    - role: speaker
+      tags: speaker
+
+    - role: microphone
+      tags: microphone
+
+    - role: person
+      tags: person
+
+    - role: crowd
+      tags: crowd
+
+    - role: police
+      tags: police
+

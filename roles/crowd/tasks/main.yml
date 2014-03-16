@@ -1,0 +1,5 @@
+---
+
+- name: Crowd screams
+  debug: msg="Ansible Roles!"
+

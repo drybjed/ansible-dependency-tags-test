@@ -1,0 +1,7 @@
+---
+
+dependencies:
+
+  - role: speaker
+    speech: '{{ what_will_be_said }}'
+
